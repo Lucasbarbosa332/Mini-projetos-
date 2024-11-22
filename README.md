@@ -86,5 +86,5 @@ Crie um jogo de perguntas e respostas com pontuação.
 
 ---
 
-Esses projetos são ideias básicas que podem ser incrementadas conforme sua criatividade! 💻  
+
 
